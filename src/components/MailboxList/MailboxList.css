@@ -1,0 +1,18 @@
+.mailbox-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+  }
+  
+  .mail-box {
+    width: 100px;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #2c3e50;
+    font-weight: bold;
+    border: 2px solid #8ba870;
+    border-radius: 8px;
+  }
+  
